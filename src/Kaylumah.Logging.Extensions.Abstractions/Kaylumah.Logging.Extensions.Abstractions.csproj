@@ -2,6 +2,11 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Max Hamulyák</Authors>
+    <Company>Kaylumah</Company>
+    <Description>Logging abstractions for Kaylumah.</Description>
+    <PackageTags>logging;abstractions</PackageTags>
+    <Copyright>Copyright (c) 2021 Kaylumah</Copyright> 
   </PropertyGroup>
 
 </Project>
