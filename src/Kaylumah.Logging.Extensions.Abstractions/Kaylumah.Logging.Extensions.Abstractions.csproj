@@ -2,16 +2,6 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
-    <Authors>Max Hamulyák</Authors>
-    <Company>Kaylumah</Company>
-    <Description>Logging abstractions for Kaylumah.</Description>
-    <PackageTags>logging;abstractions</PackageTags>
-    <PackageIcon>Logo.png</PackageIcon>
-    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
-
-  <ItemGroup>
-    <None Include="Logo.png" Pack="true" PackagePath="" />
-  </ItemGroup>
 
 </Project>

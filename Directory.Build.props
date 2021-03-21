@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project>
     <PropertyGroup>
-        <Company>NotKaylumah</Company>
+        <Authors>Max Hamulyák</Authors>
+        <Company>Kaylumah</Company>
+        <Description>Logging abstractions for Kaylumah.</Description>
         <Copyright>Copyright © $(Company) $([System.DateTime]::Now.Year)</Copyright>
+        <PackageTags>logging;abstractions</PackageTags>
+        <PackageIcon>Logo.png</PackageIcon>
+        <PackageLicenseFile>LICENSE</PackageLicenseFile>
     </PropertyGroup>
+
+    <ItemGroup>
+        <None Include="$(MSBuildThisFileDirectory)Logo.png" Pack="true" PackagePath="" />
+        <None Include="$(MSBuildThisFileDirectory)LICENSE" Pack="true" PackagePath="" />
+    </ItemGroup>
+
 </Project>
