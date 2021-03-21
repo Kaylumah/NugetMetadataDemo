@@ -8,12 +8,11 @@
     <PackageTags>logging;abstractions</PackageTags>
     <Copyright>Copyright (c) 2021 Kaylumah</Copyright>
     <PackageIcon>Logo.png</PackageIcon>
-    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
 
   <ItemGroup>
     <None Include="Logo.png" Pack="true" PackagePath="" />
-    <None Include="LICENSE" Pack="true" PackagePath=""/>
   </ItemGroup>
 
 </Project>
