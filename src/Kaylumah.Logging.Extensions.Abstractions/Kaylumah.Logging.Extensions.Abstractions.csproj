@@ -6,7 +6,6 @@
     <Company>Kaylumah</Company>
     <Description>Logging abstractions for Kaylumah.</Description>
     <PackageTags>logging;abstractions</PackageTags>
-    <Copyright>Copyright (c) 2021 Kaylumah</Copyright>
     <PackageIcon>Logo.png</PackageIcon>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
   </PropertyGroup>
